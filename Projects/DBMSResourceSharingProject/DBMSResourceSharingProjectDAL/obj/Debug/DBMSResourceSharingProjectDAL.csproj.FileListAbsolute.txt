@@ -1,0 +1,5 @@
+C:\Users\minuf\Documents\Visual Studio 2013\Projects\DBMSResourceSharingProject\DBMSResourceSharingProjectDAL\bin\Debug\DBMSResourceSharingProjectDAL.dll
+C:\Users\minuf\Documents\Visual Studio 2013\Projects\DBMSResourceSharingProject\DBMSResourceSharingProjectDAL\bin\Debug\DBMSResourceSharingProjectDAL.pdb
+C:\Users\minuf\Documents\Visual Studio 2013\Projects\DBMSResourceSharingProject\DBMSResourceSharingProjectDAL\obj\Debug\DBMSResourceSharingProjectDAL.dll
+C:\Users\minuf\Documents\Visual Studio 2013\Projects\DBMSResourceSharingProject\DBMSResourceSharingProjectDAL\obj\Debug\DBMSResourceSharingProjectDAL.pdb
+C:\Users\minuf\Documents\Visual Studio 2013\Projects\DBMSResourceSharingProject\DBMSResourceSharingProjectDAL\obj\Debug\DBMSResourceSharingProjectDAL.csprojResolveAssemblyReference.cache
